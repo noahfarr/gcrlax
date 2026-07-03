@@ -1,1 +1,2 @@
-# goal-conditioned-rl-in-jax
+# gcrlax
+Goal-conditioned reinforcement learning in JAX
